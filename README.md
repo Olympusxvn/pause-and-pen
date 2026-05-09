@@ -127,7 +127,7 @@ All components run on your machine. No external calls.
 
 # 1. Clone the repository
 ```
-git clone https://github.com/your-username/pause-and-pen.git
+git clone https://github.com/Olympusxvn/pause-and-pen.git
 cd pause-and-pen
 ```
 # 2. Install Ollama model (first time only)
