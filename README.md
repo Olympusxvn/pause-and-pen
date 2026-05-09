@@ -242,6 +242,9 @@ Distributed under the MIT License. See ``` LICENSE ``` for more information.
 
 https://pause-and-pen-notes.lovable.app
 
+## 📌 Note
+- Get demo link and download source codes, https://pause-and-pen-notes.lovable.app
+- Lovable just excuse my Pause & Pen instrucsion.
 > “Pause. Pick up your pen. That’s enough.”
 
 🌿 GitHub · 🐦 [@olympusxvn] · 📧 vo.q.cuong@gmail.com
