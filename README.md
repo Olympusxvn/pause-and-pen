@@ -238,6 +238,9 @@ Distributed under the MIT License. See ``` LICENSE ``` for more information.
 - Special thanks to Ollama, FastAPI, React, and the open‑source community.
 
 ---
+## Demo Live
+
+https://pause-and-pen-notes.lovable.app
 
 > “Pause. Pick up your pen. That’s enough.”
 
